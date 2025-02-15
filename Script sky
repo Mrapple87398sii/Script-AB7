@@ -12,7 +12,7 @@ Spooky.Name = "Spooky"
 Spooky.SoundId = "rbxassetid://111281710445018"
 Spooky.Volume = 5
 Spooky.Looped = true
-Spooky.Pitch = 0.2
+Spooky.Pitch = 0.7
 Spooky:Play()
 local ID =113426214215310 --id here
 function spamDecal(v)
